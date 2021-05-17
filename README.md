@@ -24,6 +24,6 @@ Once it identifies the user is sleeping, the switch bot will turn off the light.
 Rpi, stm32, esp8266, webcam
 
 ## 工作分配
-傅譽:website
-周柏融:switch bot
-黃曜廷:image classifier
+傅譽:website <br>
+周柏融:switch bot <br>
+黃曜廷:image classifier <br>
