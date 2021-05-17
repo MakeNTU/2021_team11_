@@ -1,0 +1,3 @@
+0 Sleep in bed
+1 Studying
+2 Playing smart phone
